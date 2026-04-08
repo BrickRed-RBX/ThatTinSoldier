@@ -1,6 +1,8 @@
 # that tin soldier
 
-a discord bot- I MEAN "that tin soldier" that posts random voice lines from the tf2 tin soldier at regular intervals
+a discord bot- I MEAN "that tin soldier" that posts random voice lines from the tf2 tin soldier at regular intervals 
+but uhh disclaimer here 
+this was made by ai cuz im stoopid
 
 ## features
 
